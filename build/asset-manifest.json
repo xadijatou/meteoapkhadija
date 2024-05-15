@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.43bfd8af.css",
+    "main.js": "/static/js/main.9b947ae5.js",
+    "static/js/453.63261c35.chunk.js": "/static/js/453.63261c35.chunk.js",
+    "static/media/meteo1.jpg": "/static/media/meteo1.ecfa657ac1b1dd50847b.jpg",
+    "index.html": "/index.html",
+    "main.43bfd8af.css.map": "/static/css/main.43bfd8af.css.map",
+    "main.9b947ae5.js.map": "/static/js/main.9b947ae5.js.map",
+    "453.63261c35.chunk.js.map": "/static/js/453.63261c35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43bfd8af.css",
+    "static/js/main.9b947ae5.js"
+  ]
+}
